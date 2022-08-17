@@ -1,0 +1,22 @@
+name: "GuAcaSite"
+title: "Yunting's Personal Website"
+theme: theme.css
+description: 
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Presentations"
+      href: about.html
+    - text: "Publications"
+      href: publications.html
+     
+      
+output: distill::distill_article
+    #theme: theme.css
+#name: "distill"
+#title: "Distill for R Markdown"
+
+#navbar:
+  # (navbar definition here)
