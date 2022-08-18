@@ -14,4 +14,3 @@ description: |
 
  * Gu, Y. (2020, September 18-20). _Mandarin Self-referential Expressions: A Sociolinguistic Study_ [Paper presentation]. The 32nd North American Conference on Chinese Linguistics. University of Connecticut, Storrs, CT, United States.   
 
----
