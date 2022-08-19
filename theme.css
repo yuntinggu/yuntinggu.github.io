@@ -60,10 +60,10 @@ d-appendix {
 /* These properties only apply to Distill sites and blogs  */
 
 .distill-site-header {
-  --title-size:       18px;
+  --title-size:       20px;
   --text-color:       #000;                     /* edited */
-  --text-size:        15px;
-  --hover-color:      #ff00ff;                  /* edited */
+  --text-size:        18px;
+  --hover-color:      #8A2BE2;                  /* edited */
   --bkgd-color:       #fff;                     /* edited */
 }
 
