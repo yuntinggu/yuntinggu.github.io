@@ -16,6 +16,6 @@ knitr::include_graphics("images/DSC04639_copy.jpeg")
 
 ```
 
-I am a fourth-year Ph.D. student in Linguistics at Michigan State University. My research interest is in phonetics and phonology. Some research questions I explore include:1) whether the Sonority Sequencing Principle is phonological or perceptual? 2) how sonority should be modulated in Articulatory Phonology? 
+I am a fourth-year Ph.D. student in Linguistics at Michigan State University. My research interest is in phonetics and phonology. Some research questions I explore include: 1) whether the Sonority Sequencing Principle is phonological or perceptual? 2) how sonority should be modulated in Articulatory Phonology? 
 
 I can be reached at guyuntinATmsuDoTedu.
