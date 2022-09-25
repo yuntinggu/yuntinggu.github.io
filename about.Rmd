@@ -3,6 +3,9 @@ title: "Presentations"
 description: |
  
 ---
+* Gu, Y. (2022, October 21–23). _Stress As a Prosodic Gesture_ [Poster session]. The Annual Meeting on Phonology. University of California, Los Angeles, CA, United States.
+
+
 * Gu, Y. (2022, September 23–25). _Mandarin Hai: A Focus Operator_ [Paper presentation]. The 34th North American Conference on Chinese Linguistics. Indiana University, Bloomington, IN, United States.
 
 
