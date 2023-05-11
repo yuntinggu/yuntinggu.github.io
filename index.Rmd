@@ -16,10 +16,12 @@ knitr::include_graphics("images/DSC04639_copy.jpeg")
 
 ```
 
-I am a fourth-year Ph.D. student in Linguistics at Michigan State University. My research interest is in phonetics and phonology. Some research questions I explore include: 
+I am a Ph.D. candidate in Linguistics at Michigan State University. My research interest is in phonetics and phonology. Some research questions I explore include: 
 
 1. Whether the Sonority Sequencing Principle is phonological or perceptual? 
 
-2. How sonority should be modeled in Articulatory Phonology or more generally speech production? 
+2. How sonority should be modeled in Articulatory Phonology? 
+
+3. What is the underlying mechanism of speech production? 
 
 I can be reached at guyuntinATmsuDoTedu.
