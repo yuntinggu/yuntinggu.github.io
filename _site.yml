@@ -17,6 +17,8 @@ output: distill::distill_article
     #theme: theme.css
 #name: "distill"
 #title: "Distill for R Markdown"
-
+<meta http-equiv='cache-control' content='no-cache'> 
+<meta http-equiv='expires' content='0'> 
+<meta http-equiv='pragma' content='no-cache'>
 #navbar:
   # (navbar definition here)
