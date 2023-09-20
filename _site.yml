@@ -8,7 +8,7 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Presentations"
-      href: about.html
+      href: presentations.html
     - text: "Publications"
       href: publications.html
      
