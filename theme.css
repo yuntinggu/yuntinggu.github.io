@@ -71,18 +71,18 @@ d-appendix {
   --text-color:       rgba(255, 255, 255, 0.8);
   --text-size:        15px;
   --hover-color:      white;
-  --bkgd-color:       #0F2E3D;
+  --bkgd-color:       white;
 }
 
 /*-- Additional custom styles --*/
 
 .categories li > a:hover {
-    color: #00ff00;
-    border-bottom: 1px #00ff00;
+    color: #000;
+    border-bottom: 1px #000;
 }
 
 p a:hover  {
-    color: #00ff00;
+    color: #000;
 }
 
 /* Change appearance of headers */
