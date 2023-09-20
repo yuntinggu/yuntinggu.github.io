@@ -3,6 +3,10 @@ title: "Presentations"
 description: |
  
 ---
+* Gu, Y. & Durvasula, K. (2023, October 20-21). _The Systematic Variation of Gestural Coordination Due to Sonority_ [Paper presentation]. The 28th Annual MidPhon Conference. Purdue University, West Lafayette, IN, United States.
+
+
+
 * Gu, Y. (2023, January 5-8). _Exploring the Effect of Stress on Gestural Coordination_ [Paper presentation]. The 97th Annual Meeting of the Linguistic Society of America. Denver, CO, United States.
 
 * Gu, Y. (2022, October 21–23). _Stress As a Prosodic Gesture_ [Poster session]. The Annual Meeting on Phonology. University of California, Los Angeles, CA, United States.
