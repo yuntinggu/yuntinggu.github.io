@@ -6,7 +6,7 @@ description: |
 
 **Conference Proceedings**
 
-* Gu, Y. Mandarin Hai: A Focus Operator. _Proceedings of the 34th North American Conference on Chinese Linguistics_. (In Press)
+* Gu, Y. (2023). Mandarin Hai: A Focus Operator. _Proceedings of the 34th North American Conference on Chinese Linguistics_. [PDF](publications/Gu_Mandarin_HAI.pdf)
 
 
 * Gu, Y. (2023). Exploring the Effect of Stress on Gestural Coordination. _Proceedings of the Linguistic Society of America (PLSA)_ 8(1). 5539. [PDF](publications/LSA_prd_23.pdf)
