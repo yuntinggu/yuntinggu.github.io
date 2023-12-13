@@ -14,7 +14,7 @@ description: |
 
 * Gu, Y. (2023, January 5-8). _Exploring the Effect of Stress on Gestural Coordination_ [Paper presentation]. The 97th Annual Meeting of the Linguistic Society of America. Denver, CO, United States.
 
-* Gu, Y. (2022, October 21–23). _Stress As a Prosodic Gesture_ [Poster session]. The Annual Meeting on Phonology. University of California, Los Angeles, CA, United States.
+* Gu, Y. (2022, October 21–23). _Stress As a Prosodic Gesture_ [Poster session]. The Annual Meeting on Phonology. University of California, Los Angeles, CA, United States. [Poster](presentations/Gu_Stress_Prosodic_Gesture.pdf)
 
 
 * Gu, Y. (2022, September 23–25). _Mandarin Hai: A Focus Operator_ [Paper presentation]. The 34th North American Conference on Chinese Linguistics. Indiana University, Bloomington, IN, United States.
@@ -24,7 +24,7 @@ description: |
 
 
 
-* Ye, Y. & Gu, Y. (2021, January 30). _Is Nasalization Phonological or Coarticulatory in Chinese? An Acoustic Study on Beijing Mandarin and Chengdu Dialect_ [Poster session]. The 25th Annual MidPhon Conference. University of Illinois Urbana-Champaign, Champaign, IL, United States.
+* Ye, Y. & Gu, Y. (2021, January 30). _Is Nasalization Phonological or Coarticulatory in Chinese? An Acoustic Study on Beijing Mandarin and Chengdu Dialect_ [Poster session]. The 25th Annual MidPhon Conference. University of Illinois Urbana-Champaign, Champaign, IL, United States. [Poster](presentations/20_Midphon25_poster.pdf)
 
  * Gu, Y. (2020, September 18-20). _Mandarin Self-referential Expressions: A Sociolinguistic Study_ [Paper presentation]. The 32nd North American Conference on Chinese Linguistics. University of Connecticut, Storrs, CT, United States.   
 
