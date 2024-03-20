@@ -6,12 +6,12 @@ description: |
 
 **Journal Articles**
 
-* Gu, Y. & Durvasula, K. The Relation between Sonority and Gestural Timing. Journal of Phonetics. (Under Review) 
+* Gu, Y. & Durvasula, K. The Relation between Sonority and Gestural Timing. _Journal of Phonetics_. (Under Review) 
 
 
 **Conference Proceedings**
 
-* Gu, Y. & Peters, R. (2024). English Coronal Stop Deletion Is Categorical Not Gradient. Proceedings of the Linguistic Society of America. (In Press) 
+* Gu, Y. & Peters, R. (2024). English Coronal Stop Deletion Is Categorical Not Gradient. _Proceedings of the Linguistic Society of America_. (In Press) 
 
 * Gu, Y. (2023). Mandarin Hai: A Focus Operator. _Proceedings of the 34th North American Conference on Chinese Linguistics_. [PDF](publications/Gu_Mandarin_HAI.pdf)
 
