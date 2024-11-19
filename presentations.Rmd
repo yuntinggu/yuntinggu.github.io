@@ -4,6 +4,8 @@ description: |
  
 ---
 
+
+
 * Gu, Y. & Peters, R. (2024, January 4-7). _English Coronal Stop Deletion Is Categorical Not Gradient_ [Paper presentation]. The 98th Annual Meeting of the Linguistic Society of America. New York, NY, United States.
 
 * Gu, Y. & Durvasula, K. (2023, October 20-22). _The Link Between Sonority Sequencing and Gestural Coordination_ [Paper presentation]. The Annual Meeting on Phonology. Johns Hopkins University. Baltimore, MD, United States.

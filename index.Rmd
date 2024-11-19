@@ -20,12 +20,7 @@ knitr::include_graphics("images/stand.jpg")
 ```
 
 
-I am a Ph.D. candidate in Linguistics at Michigan State University. My research interest is in phonetics and phonology. Some research questions I explore include: 
+I am a Ph.D. candidate in Linguistics at Michigan State University. I am a computational laboratory phonologist. My research lies at the intersection of computational methods, phonetic experiments, and phonological theory. My research probes the scope and source of phonological universals, based on perceptual and production studies.
 
-1. Whether the Sonority Sequencing Principle is phonological or perceptual? 
-
-2. How does sonority affect gestural coordination in speech production? 
-
-3. What is the underlying mechanism of speech production? 
 
 I can be reached at guyuntin at msu dot edu.
