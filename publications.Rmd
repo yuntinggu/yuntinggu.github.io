@@ -4,7 +4,7 @@ description: |
   
 ---
 
-**Journal Articles**
+
 
 * (Submitted) Gu, Y. & Durvasula, K. The Relation between Sonority and Gestural Timing. _Journal of Phonetics_. [Link](https://ssrn.com/abstract=4695254)
 
