@@ -4,6 +4,7 @@ description: |
  
 ---
 
+* Gu, Y., Airola, B., Wang, Y., Shao, A., & Durvasula, K. (2025, January 9-12). _The CV Coordination in English and Mandarin_ [Poster session]. The 2025 Annual Meeting of the Linguistic Society of America. Philadelphia, PA, United States.
 
 
 * Gu, Y. & Peters, R. (2024, January 4-7). _English Coronal Stop Deletion Is Categorical Not Gradient_ [Paper presentation]. The 98th Annual Meeting of the Linguistic Society of America. New York, NY, United States.
