@@ -11,12 +11,12 @@ description: |
 
 **Conference Proceedings**
 
-* **Gu, Y.** & Peters, R. (2024). English Coronal Stop Deletion Is Categorical Not Gradient. _Proceedings of the Linguistic Society of America_ 9 (1). 5700. [PDF](publications/24LSA_pro.pdf) 
+* **Gu, Y.** & Peters, R. (2024). English Coronal Stop Deletion Is Categorical Not Gradient. _Proceedings of the Linguistic Society of America_ 9 (1). 5700. [Link](https://doi.org/10.3765/plsa.v9i1.5700) 
 
 * **Gu, Y.** (2023). Mandarin Hai: A Focus Operator. _Proceedings of the 34th North American Conference on Chinese Linguistics_. [PDF](publications/Gu_Mandarin_HAI.pdf)
 
 
-* **Gu, Y.** (2023). Exploring the Effect of Stress on Gestural Coordination. _Proceedings of the Linguistic Society of America (PLSA)_ 8 (1). 5539. [PDF](publications/LSA_prd_23.pdf)
+* **Gu, Y.** (2023). Exploring the Effect of Stress on Gestural Coordination. _Proceedings of the Linguistic Society of America (PLSA)_ 8 (1). 5539. [Link](https://doi.org/10.3765/plsa.v8i1.5539)
 
 * **Gu, Y.** (2020). Mandarin Self-referential Expressions: A Sociolinguistic Study. _Proceedings of the 32nd North American Conference on Chinese Linguistics_, USA, 539-554. [PDF](publications/Pro_NACCL32_Part05_42_Gu_P539.pdf)
 
