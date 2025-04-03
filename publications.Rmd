@@ -3,7 +3,7 @@ title: "Publications and Preprints"
 description: |
   
 ---
-
+**Journal Articles**
 
 
 * (Under review) **Gu, Y.** & Durvasula, K. The Relation between Sonority and Gestural Timing. _Journal of Phonetics_. [Link](http://ssrn.com/abstract=5123048)
