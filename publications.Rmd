@@ -22,7 +22,7 @@ description: |
 
 **Book Reviews**
 
-* **Gu, Y.** (2021). Kate Vieira, Writing for love and money: How migration drives literacy learning in transnational families. Oxford: Oxford University Press, 2019. Pp. 256. Pb. £20. _Language in Society_, 50 (2), 320-321. [PDF](publications/kate_vieira_writing_for_love_and_money.pdf)
+* **Gu, Y.** (2021). Kate Vieira, Writing for love and money: How migration drives literacy learning in transnational families. Oxford: Oxford University Press, 2019. Pp. 256. Pb. £20. _Language in Society_, 50 (2), 320-321. [Link](https://doi.org/10.1017/S0047404521000026)
 
 
 
