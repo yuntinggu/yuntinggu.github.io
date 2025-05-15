@@ -20,7 +20,7 @@ knitr::include_graphics("images/2024.jpg")
 ```
 
 
-I am a Ph.D. candidate in Linguistics at Michigan State University. I am a computational laboratory phonologist. My research lies at the intersection of computational methods, phonetic experiments, and phonological theory. My research probes the scope and source of phonological universals, based on perceptual and production studies.
+I received my Ph.D. in Linguistics from Michigan State University. My research lies at the intersection of computational methods, phonetic experiments, and phonological theory. My research probes the scope and source of phonological universals, based on perceptual and production studies.
 
 
 I can be reached at guyuntin at msu dot edu.
