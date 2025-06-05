@@ -3,33 +3,33 @@ title: "Presentations"
 description: |
  
 ---
-* **Gu, Y.**, Zhao, S., & Liu, W. (2025, May 9-11). _The auto-coding and acoustic correlate of rhotics_ [Poster session]. The 61st Annual Meeting of the Chicago Linguistic Society. The University of Chicago. Chicago, IL, United States.
+1. **Gu, Y.**, Zhao, S., & Liu, W. (2025, May 9-11). _The auto-coding and acoustic correlate of rhotics_ [Poster session]. The 61st Annual Meeting of the Chicago Linguistic Society. The University of Chicago. Chicago, IL, United States.
 
 
-* **Gu, Y.**, Airola, B., Wang, Y., Shao, A., & Durvasula, K. (2025, January 9-12). _The CV Coordination in English and Mandarin_ [Poster session]. The 2025 Annual Meeting of the Linguistic Society of America. Philadelphia, PA, United States.
+2. **Gu, Y.**, Airola, B., Wang, Y., Shao, A., & Durvasula, K. (2025, January 9-12). _The CV Coordination in English and Mandarin_ [Poster session]. The 2025 Annual Meeting of the Linguistic Society of America. Philadelphia, PA, United States.
 
 
-* **Gu, Y.** & Peters, R. (2024, January 4-7). _English Coronal Stop Deletion Is Categorical Not Gradient_ [Paper presentation]. The 98th Annual Meeting of the Linguistic Society of America. New York, NY, United States.
+3. **Gu, Y.** & Peters, R. (2024, January 4-7). _English Coronal Stop Deletion Is Categorical Not Gradient_ [Paper presentation]. The 98th Annual Meeting of the Linguistic Society of America. New York, NY, United States.
 
-* **Gu, Y.** & Durvasula, K. (2023, October 20-22). _The Link Between Sonority Sequencing and Gestural Coordination_ [Paper presentation]. The Annual Meeting on Phonology. Johns Hopkins University. Baltimore, MD, United States.
+4. **Gu, Y.** & Durvasula, K. (2023, October 20-22). _The Link Between Sonority Sequencing and Gestural Coordination_ [Paper presentation]. The Annual Meeting on Phonology. Johns Hopkins University. Baltimore, MD, United States.
 
-* **Gu, Y.** & Durvasula, K. (2023, October 20-21). _The Systematic Variation of Gestural Coordination Due to Sonority_ [Paper presentation]. The 28th Annual MidPhon Conference. Purdue University, West Lafayette, IN, United States.
-
-
-
-* **Gu, Y.** (2023, January 5-8). _Exploring the Effect of Stress on Gestural Coordination_ [Paper presentation]. The 97th Annual Meeting of the Linguistic Society of America. Denver, CO, United States.
-
-* **Gu, Y.** (2022, October 21–23). _Stress As a Prosodic Gesture_ [Poster session]. The Annual Meeting on Phonology. University of California, Los Angeles, CA, United States.
-
-
-* **Gu, Y.** (2022, September 23–25). _Mandarin Hai: A Focus Operator_ [Paper presentation]. The 34th North American Conference on Chinese Linguistics. Indiana University, Bloomington, IN, United States.
-
-
-* **Gu, Y.** (2022, May 25-27). _The Sonority Sequencing Principle Is Perceptual Not Phonological_ [Poster session]. The 29th Manchester Phonology Meeting. United Kingdom. 
+5. **Gu, Y.** & Durvasula, K. (2023, October 20-21). _The Systematic Variation of Gestural Coordination Due to Sonority_ [Paper presentation]. The 28th Annual MidPhon Conference. Purdue University, West Lafayette, IN, United States.
 
 
 
-* Ye, Y. & **Gu, Y.** (2021, January 30). _Is Nasalization Phonological or Coarticulatory in Chinese? An Acoustic Study on Beijing Mandarin and Chengdu Dialect_ [Poster session]. The 25th Annual MidPhon Conference. University of Illinois Urbana-Champaign, Champaign, IL, United States.
+6. **Gu, Y.** (2023, January 5-8). _Exploring the Effect of Stress on Gestural Coordination_ [Paper presentation]. The 97th Annual Meeting of the Linguistic Society of America. Denver, CO, United States.
 
- * **Gu, Y.** (2020, September 18-20). _Mandarin Self-referential Expressions: A Sociolinguistic Study_ [Paper presentation]. The 32nd North American Conference on Chinese Linguistics. University of Connecticut, Storrs, CT, United States.   
+7. **Gu, Y.** (2022, October 21–23). _Stress As a Prosodic Gesture_ [Poster session]. The Annual Meeting on Phonology. University of California, Los Angeles, CA, United States.
+
+
+8. **Gu, Y.** (2022, September 23–25). _Mandarin Hai: A Focus Operator_ [Paper presentation]. The 34th North American Conference on Chinese Linguistics. Indiana University, Bloomington, IN, United States.
+
+
+9. **Gu, Y.** (2022, May 25-27). _The Sonority Sequencing Principle Is Perceptual Not Phonological_ [Poster session]. The 29th Manchester Phonology Meeting. United Kingdom. 
+
+
+
+10. Ye, Y. & **Gu, Y.** (2021, January 30). _Is Nasalization Phonological or Coarticulatory in Chinese? An Acoustic Study on Beijing Mandarin and Chengdu Dialect_ [Poster session]. The 25th Annual MidPhon Conference. University of Illinois Urbana-Champaign, Champaign, IL, United States.
+
+11. **Gu, Y.** (2020, September 18-20). _Mandarin Self-referential Expressions: A Sociolinguistic Study_ [Paper presentation]. The 32nd North American Conference on Chinese Linguistics. University of Connecticut, Storrs, CT, United States.   
 
